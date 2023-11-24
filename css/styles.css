@@ -249,7 +249,7 @@ img {
 .benefits-items {
   width: calc((100% - 72px) / 4);
 }
-.icons {
+.benefits-icons {
   display: flex;
   align-items: center;
   justify-content: center;

@@ -258,10 +258,6 @@ img {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-svg {
-  width: 64px;
-  height: 64px;
-}
 
 /* section-three-our-team */
 .our-team {
@@ -288,6 +284,7 @@ svg {
 }
 .social-list-item {
   width: 40px;
+  height: 40px;
 }
 .position {
   text-align: center;

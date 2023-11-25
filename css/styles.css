@@ -279,7 +279,7 @@ img {
 }
 .social-list {
   display: flex;
-  justify-content: center;
+
   gap: 24px;
 }
 .social-list-item {
@@ -289,13 +289,14 @@ img {
 .social-networks {
   width: 100%;
   height: 100%;
-  border-color: #4d5ae5;
+  background-color: #4d5ae5;
   border-radius: 50%;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
-.telegram:hover,
-.telegram:focus {
+.social-networks:hover,
+.social-networks:focus {
   background-color: #404bbf;
 }
 .position {
